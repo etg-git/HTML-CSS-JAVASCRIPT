@@ -1,8 +1,5 @@
 ## HTML CSS JavaScript
 ---
-
-#### 태그들 공부 및 웹페이지 직접 만들어보기
-
 ##### [```HTML study```](https://github.com/etg-git/HTML-CSS-JAVASCRIPT/tree/master/HTMLstudy)
 
 ##### [```CSS study```](https://github.com/etg-git/HTML-CSS-JAVASCRIPT/tree/master/CSSstudy)
